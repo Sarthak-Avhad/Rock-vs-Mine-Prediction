@@ -14,3 +14,52 @@ The dataset consists of sonar signal frequencies, and the goal is to accurately 
 - Train and evaluate model performance  
 - Predict whether an object is a rock or a mine  
 
+
+---
+
+## 🔧 Algorithms Used
+
+- Logistic Regression  
+- (Optional comparison with other classifiers)
+
+---
+
+## 🛠️ Technologies Used
+
+- Python  
+- Jupyter Notebook  
+- pandas, NumPy  
+- scikit-learn  
+- matplotlib / seaborn  
+
+---
+
+## 🔹 Workflow
+
+1. Load and explore sonar dataset  
+2. Perform data preprocessing  
+3. Split dataset into training and testing sets  
+4. Train Logistic Regression model  
+5. Evaluate model using accuracy score  
+6. Test model with new input data  
+
+---
+
+## 📈 Applications
+
+- Naval defense systems  
+- Underwater object detection  
+- Sonar signal classification  
+- Military & marine research  
+
+---
+
+## 🔮 Future Enhancements
+
+- Compare multiple ML classifiers  
+- Hyperparameter tuning  
+- Improve accuracy using feature selection  
+
+---
+
+
